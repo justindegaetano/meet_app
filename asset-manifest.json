@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/justindegaetano/meet_app/static/css/main.073c9b0a.css",
-    "main.js": "/justindegaetano/meet_app/static/js/main.e8c49864.js",
+    "main.css": "/justindegaetano/meet_app/static/css/main.61b007df.css",
+    "main.js": "/justindegaetano/meet_app/static/js/main.5545a05c.js",
     "static/js/787.4b564826.chunk.js": "/justindegaetano/meet_app/static/js/787.4b564826.chunk.js",
     "service-worker.js": "/justindegaetano/meet_app/service-worker.js",
-    "static/media/logo.svg": "/justindegaetano/meet_app/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "index.html": "/justindegaetano/meet_app/index.html",
-    "main.073c9b0a.css.map": "/justindegaetano/meet_app/static/css/main.073c9b0a.css.map",
-    "main.e8c49864.js.map": "/justindegaetano/meet_app/static/js/main.e8c49864.js.map",
+    "main.61b007df.css.map": "/justindegaetano/meet_app/static/css/main.61b007df.css.map",
+    "main.5545a05c.js.map": "/justindegaetano/meet_app/static/js/main.5545a05c.js.map",
     "787.4b564826.chunk.js.map": "/justindegaetano/meet_app/static/js/787.4b564826.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.e8c49864.js"
+    "static/css/main.61b007df.css",
+    "static/js/main.5545a05c.js"
   ]
 }
