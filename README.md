@@ -1,4 +1,8 @@
-# Feature Scenarios:
+# Meet App
+## Intro
+A serverless, progressive web application (PWA) built with React, using a test-driven development (TDD) technique. The application uses the Google Calendar API to fetch upcoming events.
+
+## Key Features:
 
 ## Feature 1: Filter events by city
 As a user, I should be able to filter events by city so that I can see events taking place in that city.
@@ -64,6 +68,11 @@ As a user, I should be able to see a chart showing all upcoming events in each c
     - When the user requests for information to be visualized
     - Then a page with data presented in the form of a chart is displayed
 
+## Technology Stack: 
+JavaScript, React, Google Calendar API, AWS lambda, Jest / Enzyme, Jest-Cucumber, Puppeteer, Recharts
 
 ### Serverless Functions
 This application uses a serverless function to handle the delivery of authorization tokens to user. The function uses OAuth 2.0 to authenticate users and grant them access to event data provided through the Google Calendar API.
+
+## Application link: 
+https://justindegaetano.github.io/meet_app/
